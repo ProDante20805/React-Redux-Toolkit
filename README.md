@@ -16,9 +16,9 @@ Redux Toolkit Tutorial made by John Smilga
 
 ## Task(s) Completed
 - [x] ~~A. Initialize Project with Proper Template~~
-- [ ] B. Connect to Redux
-    - [ ] B1. Setup Store
-    - [ ] B2. Setup Provider
+- [x] ~~B. Connect to Redux~~
+    - [x] ~~B1. Setup Store~~
+    - [x] ~~B2. Setup Provider~~
 - [ ] C. Setup CartSlice
 - [ ] D. Access Store Value (`useSelector`)
 - [ ] E. Hero Icons
