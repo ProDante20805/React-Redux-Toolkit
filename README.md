@@ -19,7 +19,7 @@ Redux Toolkit Tutorial made by John Smilga
 - [x] ~~B. Connect to Redux~~
     - [x] ~~B1. Setup Store~~
     - [x] ~~B2. Setup Provider~~
-- [ ] C. Setup CartSlice
+- [x] ~~C. Setup CartSlice~~
 - [ ] D. Access Store Value (`useSelector`)
 - [ ] E. Hero Icons
 - [ ] F. Local Data
