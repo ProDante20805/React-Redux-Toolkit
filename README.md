@@ -20,7 +20,7 @@ Redux Toolkit Tutorial made by John Smilga
     - [x] ~~B1. Setup Store~~
     - [x] ~~B2. Setup Provider~~
 - [x] ~~C. Setup CartSlice~~
-- [ ] D. Access Store Value (`useSelector`)
+- [X] ~~D. Access Store Value (`useSelector`)~~
 - [ ] E. Hero Icons
 - [ ] F. Local Data
 - [ ] G. Render List
