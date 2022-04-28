@@ -24,7 +24,7 @@ Redux Toolkit Tutorial made by John Smilga
 - [x] ~~E. Hero Icons~~
 - [x] ~~F. Local Data~~
 - [x] ~~G. Render List~~
-- [ ] H. Cart Item
+- [x] ~~H. Cart Item~~
 - [ ] I. Clear Cart
 - [ ] J. Return State
 - [ ] K. Remove Item
