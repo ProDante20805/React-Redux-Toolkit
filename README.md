@@ -1,5 +1,7 @@
 # redux-toolkit-tutorial
 
+![shield-freecodecamp][shield-freecodecamp]
+
 Redux Toolkit Tutorial made by John Smilga
 > Created : 2021.04
 
@@ -33,7 +35,7 @@ Redux Toolkit Tutorial made by John Smilga
 - [x] ~~N. Create Modal~~
 - [x] ~~O. Modal Complete~~
 - [x] ~~P. `createAsyncThunk`~~
-- [ ] Q. `createAsyncThunk` Options
+- [x] ~~Q. `createAsyncThunk` Options~~
 
 ## References
 
@@ -45,4 +47,6 @@ Redux Toolkit Tutorial made by John Smilga
 [shield-react]: https://img.shields.io/badge/react-17.x-61DAFB?logo=react&logoColor=61DAFB&style=flat-square
 [shield-redux]: https://img.shields.io/badge/redux-1.8.x-764ABC?logo=redux&logoColor=764ABC&style=flat-square
 
-[sheild-immer]: https://img.shields.io/badge/immer-1.8.x-00E7C3?logo=immer&logoColor=00E7C3&style=flat-square
+[sheild-immer]: https://img.shields.io/badge/immer-9.x-00E7C3?logo=immer&logoColor=00E7C3&style=flat-square
+
+[shield-freecodecamp]: https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green
