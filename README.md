@@ -25,7 +25,7 @@ Redux Toolkit Tutorial made by John Smilga
 - [x] ~~F. Local Data~~
 - [x] ~~G. Render List~~
 - [x] ~~H. Cart Item~~
-- [ ] I. Clear Cart
+- [x] ~~I. Clear Cart~~
 - [ ] J. Return State
 - [ ] K. Remove Item
 - [ ] L. Toggle Amount
