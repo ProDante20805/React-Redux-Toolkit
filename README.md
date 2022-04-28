@@ -29,7 +29,7 @@ Redux Toolkit Tutorial made by John Smilga
 - [x] ~~J. Return State~~
 - [x] ~~K. Remove Item~~
 - [x] ~~L. Toggle Amount~~
-- [ ] M. Calculate Totals
+- [x] ~~M. Calculate Totals~~
 - [ ] N. Create Modal
 - [ ] O. Modal Complete
 - [ ] P. `createAsyncThunk`
