@@ -26,8 +26,8 @@ Redux Toolkit Tutorial made by John Smilga
 - [x] ~~G. Render List~~
 - [x] ~~H. Cart Item~~
 - [x] ~~I. Clear Cart~~
-- [ ] J. Return State
-- [ ] K. Remove Item
+- [x] ~~J. Return State~~
+- [x] ~~K. Remove Item~~
 - [ ] L. Toggle Amount
 - [ ] M. Calculate Totals
 - [ ] N. Create Modal
