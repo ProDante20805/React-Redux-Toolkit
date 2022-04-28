@@ -32,7 +32,7 @@ Redux Toolkit Tutorial made by John Smilga
 - [x] ~~M. Calculate Totals~~
 - [x] ~~N. Create Modal~~
 - [x] ~~O. Modal Complete~~
-- [ ] P. `createAsyncThunk`
+- [x] ~~P. `createAsyncThunk`~~
 - [ ] Q. `createAsyncThunk` Options
 
 ## References
