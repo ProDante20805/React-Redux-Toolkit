@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import CartContainer from "./components/CartContainer";
+import Modal from "./components/Modal";
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { calculateTotals } from './features/cart/cartSlice'
@@ -14,6 +15,7 @@ function App() {
 
   return (
     <main>
+      <Modal/>
       <Navbar/>
       <CartContainer/>
     </main>
